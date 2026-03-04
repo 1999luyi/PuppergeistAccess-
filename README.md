@@ -16,15 +16,14 @@ An accessibility mod for Puppergeist that adds comprehensive screen reader suppo
 
 ### Requirements
 - Puppergeist (Demo or Full Game)
-- [MelonLoader v0.7.2](https://github.com/LavaGang/MelonLoader/releases) or later
 - Windows 10/11 with a screen reader (NVDA, JAWS, or Narrator)
 
 ### Steps
-1. Install MelonLoader for Puppergeist
-2. Download the latest release from the [Releases](../../releases) page
-3. Extract `PuppergeistAccess.dll` to `[Game Directory]/Mods/`
-4. Extract `ImageDescriptions.json` to `[Game Directory]/Mods/`
-5. Launch the game - you should hear "PuppergeistAccess mod loaded"
+1. Download `PuppergeistAccess.zip` from the [Releases](../../releases) page
+2. Extract the zip file to your game directory (the same folder where `Puppergeist.exe` is located)
+3. Launch the game - you should hear "PuppergeistAccess mod loaded"
+
+That's it! The portable version includes MelonLoader and all required dependencies.
 
 ## Usage
 
